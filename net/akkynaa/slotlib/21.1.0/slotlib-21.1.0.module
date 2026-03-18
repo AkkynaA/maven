@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.akkynaa",
+    "module": "slotlib",
+    "version": "21.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "slotlib-21.1.0.jar",
+          "url": "slotlib-21.1.0.jar",
+          "size": 57338,
+          "sha512": "3c0910abf69d12e91b1c886b0f6723888902b80bffa13ad0adb1da93bfc6ae0ae070a4e530bfd5e39094aa2b2e624c1cad127e2b7cd690ae93cdd29224600a70",
+          "sha256": "c4daeb06555ceb445262350841038e42c17f12a3b9c95a1be86579da3d3fff9d",
+          "sha1": "77dbffebe0539f4fe1860e54bbf7fe20c0b489b1",
+          "md5": "d6c14b49d0bcf3f8adeaf12f3506745b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "slotlib-21.1.0.jar",
+          "url": "slotlib-21.1.0.jar",
+          "size": 57338,
+          "sha512": "3c0910abf69d12e91b1c886b0f6723888902b80bffa13ad0adb1da93bfc6ae0ae070a4e530bfd5e39094aa2b2e624c1cad127e2b7cd690ae93cdd29224600a70",
+          "sha256": "c4daeb06555ceb445262350841038e42c17f12a3b9c95a1be86579da3d3fff9d",
+          "sha1": "77dbffebe0539f4fe1860e54bbf7fe20c0b489b1",
+          "md5": "d6c14b49d0bcf3f8adeaf12f3506745b"
+        }
+      ]
+    }
+  ]
+}
