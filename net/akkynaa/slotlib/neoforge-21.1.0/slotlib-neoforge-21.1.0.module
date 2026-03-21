@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.akkynaa",
+    "module": "slotlib",
+    "version": "neoforge-21.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "slotlib-neoforge-21.1.0.jar",
+          "url": "slotlib-neoforge-21.1.0.jar",
+          "size": 60574,
+          "sha512": "a263e391bcfe70fd997d570a1bdd5a3d7ac80c8c977cf82842c4422638edf35fe0a7e20f2406c8e9432579c016952e5bdb85a2ce0294d4d7a9463d5689c8afba",
+          "sha256": "4f506eecdebf135fcedafb03941515e3428ef46b0acd5857dfd0ac6dacf7ec89",
+          "sha1": "c58e212b81b46f82d01fe70cd645d799f7092586",
+          "md5": "43340c06440a87d0d97919e4e3a19ea5"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "maven.modrinth",
+          "module": "curios",
+          "version": {
+            "requires": "9.5.1+1.21.1-neoforge"
+          }
+        },
+        {
+          "group": "maven.modrinth",
+          "module": "yyzs-backpack",
+          "version": {
+            "requires": "A6bCvCiA"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "slotlib-neoforge-21.1.0.jar",
+          "url": "slotlib-neoforge-21.1.0.jar",
+          "size": 60574,
+          "sha512": "a263e391bcfe70fd997d570a1bdd5a3d7ac80c8c977cf82842c4422638edf35fe0a7e20f2406c8e9432579c016952e5bdb85a2ce0294d4d7a9463d5689c8afba",
+          "sha256": "4f506eecdebf135fcedafb03941515e3428ef46b0acd5857dfd0ac6dacf7ec89",
+          "sha1": "c58e212b81b46f82d01fe70cd645d799f7092586",
+          "md5": "43340c06440a87d0d97919e4e3a19ea5"
+        }
+      ]
+    }
+  ]
+}

@@ -3,11 +3,12 @@
   <groupId>net.akkynaa</groupId>
   <artifactId>slotlib</artifactId>
   <versioning>
-    <latest>forge-20.1.0</latest>
-    <release>forge-20.1.0</release>
+    <latest>neoforge-21.1.0</latest>
+    <release>neoforge-21.1.0</release>
     <versions>
       <version>forge-20.1.0</version>
+      <version>neoforge-21.1.0</version>
     </versions>
-    <lastUpdated>20260321200439</lastUpdated>
+    <lastUpdated>20260321201016</lastUpdated>
   </versioning>
 </metadata>
