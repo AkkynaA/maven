@@ -1,0 +1,83 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.akkynaa",
+    "module": "slotlib",
+    "version": "neoforge-21.8.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "slotlib-neoforge-21.8.0.jar",
+          "url": "slotlib-neoforge-21.8.0.jar",
+          "size": 56410,
+          "sha512": "bccd064569446660565debbeb275f686d9e4035730169ae749f189d1a6fbe86135e85beed38e35ee32f5763b98cc672c670b4a368c66e5169d0ff00eb6c80168",
+          "sha256": "112aa0e7870031305c865a7a882f4ec3c789d87757bbd126e3e3b314ff520284",
+          "sha1": "00e65dc3baa9a196fb0a9e581d02401dee275ee3",
+          "md5": "902a3c5a7a4a00618525b7f402e83759"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.neoforged",
+          "module": "neoforge",
+          "version": {
+            "requires": "21.8.49"
+          }
+        },
+        {
+          "group": "top.theillusivec4.curios",
+          "module": "curios-neoforge",
+          "version": {
+            "requires": "12.0.0+1.21.8"
+          }
+        },
+        {
+          "group": "maven.modrinth",
+          "module": "yyzs-backpack",
+          "version": {
+            "requires": "TR3Q4AgG"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "slotlib-neoforge-21.8.0.jar",
+          "url": "slotlib-neoforge-21.8.0.jar",
+          "size": 56410,
+          "sha512": "bccd064569446660565debbeb275f686d9e4035730169ae749f189d1a6fbe86135e85beed38e35ee32f5763b98cc672c670b4a368c66e5169d0ff00eb6c80168",
+          "sha256": "112aa0e7870031305c865a7a882f4ec3c789d87757bbd126e3e3b314ff520284",
+          "sha1": "00e65dc3baa9a196fb0a9e581d02401dee275ee3",
+          "md5": "902a3c5a7a4a00618525b7f402e83759"
+        }
+      ]
+    }
+  ]
+}
