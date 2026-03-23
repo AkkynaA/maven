@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.akkynaa",
+    "module": "slotlib",
+    "version": "neoforge-21.11.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "slotlib-neoforge-21.11.0.jar",
+          "url": "slotlib-neoforge-21.11.0.jar",
+          "size": 54088,
+          "sha512": "01d21ac7a6a863e74838a75afd778c325fb5620facda8574f650e4f9eb577dfe83faad2407c4dc1813c35eeb1e60d3bc85d52f8871ff8d0e7d0ad905479033cc",
+          "sha256": "6d00c49e4b6321d90d95c33d1d6a561670e38c091b5a220fe15c363e39589ed0",
+          "sha1": "0a5c3ba39e6d101ee8696876c8ff403eb4532fa1",
+          "md5": "a0f065068c189de4af836ceffaa9414a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.neoforged",
+          "module": "neoforge",
+          "version": {
+            "requires": "21.11.38-beta"
+          }
+        },
+        {
+          "group": "top.theillusivec4.curios",
+          "module": "curios-neoforge",
+          "version": {
+            "requires": "14.0.0+1.21.11"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "slotlib-neoforge-21.11.0.jar",
+          "url": "slotlib-neoforge-21.11.0.jar",
+          "size": 54088,
+          "sha512": "01d21ac7a6a863e74838a75afd778c325fb5620facda8574f650e4f9eb577dfe83faad2407c4dc1813c35eeb1e60d3bc85d52f8871ff8d0e7d0ad905479033cc",
+          "sha256": "6d00c49e4b6321d90d95c33d1d6a561670e38c091b5a220fe15c363e39589ed0",
+          "sha1": "0a5c3ba39e6d101ee8696876c8ff403eb4532fa1",
+          "md5": "a0f065068c189de4af836ceffaa9414a"
+        }
+      ]
+    }
+  ]
+}
