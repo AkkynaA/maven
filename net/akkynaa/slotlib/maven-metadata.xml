@@ -3,8 +3,8 @@
   <groupId>net.akkynaa</groupId>
   <artifactId>slotlib</artifactId>
   <versioning>
-    <latest>neoforge-21.8.0</latest>
-    <release>neoforge-21.8.0</release>
+    <latest>neoforge-21.1.0</latest>
+    <release>neoforge-21.1.0</release>
     <versions>
       <version>forge-20.1.0</version>
       <version>neoforge-21.1.0</version>
@@ -14,6 +14,6 @@
       <version>neoforge-21.11.0</version>
       <version>neoforge-21.8.0</version>
     </versions>
-    <lastUpdated>20260323202908</lastUpdated>
+    <lastUpdated>20260323215211</lastUpdated>
   </versioning>
 </metadata>
