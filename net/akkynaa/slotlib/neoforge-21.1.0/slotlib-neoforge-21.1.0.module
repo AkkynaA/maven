@@ -44,22 +44,6 @@
         "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime"
       },
-      "dependencies": [
-        {
-          "group": "maven.modrinth",
-          "module": "curios",
-          "version": {
-            "requires": "9.5.1+1.21.1-neoforge"
-          }
-        },
-        {
-          "group": "maven.modrinth",
-          "module": "yyzs-backpack",
-          "version": {
-            "requires": "A6bCvCiA"
-          }
-        }
-      ],
       "files": [
         {
           "name": "slotlib-neoforge-21.1.0.jar",

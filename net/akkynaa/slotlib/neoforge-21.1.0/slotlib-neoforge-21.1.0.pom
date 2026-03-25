@@ -10,18 +10,4 @@
   <groupId>net.akkynaa</groupId>
   <artifactId>slotlib</artifactId>
   <version>neoforge-21.1.0</version>
-  <dependencies>
-    <dependency>
-      <groupId>maven.modrinth</groupId>
-      <artifactId>curios</artifactId>
-      <version>9.5.1+1.21.1-neoforge</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>maven.modrinth</groupId>
-      <artifactId>yyzs-backpack</artifactId>
-      <version>A6bCvCiA</version>
-      <scope>runtime</scope>
-    </dependency>
-  </dependencies>
 </project>
