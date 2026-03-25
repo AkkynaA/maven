@@ -27,11 +27,11 @@
         {
           "name": "slotlib-neoforge-21.1.0.jar",
           "url": "slotlib-neoforge-21.1.0.jar",
-          "size": 60775,
-          "sha512": "4666711182c4d46528c48e01330914a3baa3b5a77bf5f09e0389d030a01a1c0ecdd930691df800a610215d292b59961b83c8bfaddd95a4c37aa64eea81633e57",
-          "sha256": "7256134ad95dbd5203699b96893fa1a5f97260ac57c3f4197c5691ef33eef08d",
-          "sha1": "2635b64da7c987c8878370e53545b93a1c5f63af",
-          "md5": "764676eca0120b6645d64d3ca0488721"
+          "size": 60867,
+          "sha512": "bba2fa2ec364b1b28ef7e238f307992d96c28de379e306532b13a2218be65ea749d29e489a428eb64df4952cee312806a85eae672b83ed52d9fd9c54ed9387e4",
+          "sha256": "cba8620a9fd1d0a57fd4f89a7a2c1a944b5a5ff2662b02d414c8b006320d209d",
+          "sha1": "6e30da7f8d848e1814614fb1c538fc2625b51ab6",
+          "md5": "aaefdfb145b91f1c861bb1ed4c54ab89"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "slotlib-neoforge-21.1.0.jar",
           "url": "slotlib-neoforge-21.1.0.jar",
-          "size": 60775,
-          "sha512": "4666711182c4d46528c48e01330914a3baa3b5a77bf5f09e0389d030a01a1c0ecdd930691df800a610215d292b59961b83c8bfaddd95a4c37aa64eea81633e57",
-          "sha256": "7256134ad95dbd5203699b96893fa1a5f97260ac57c3f4197c5691ef33eef08d",
-          "sha1": "2635b64da7c987c8878370e53545b93a1c5f63af",
-          "md5": "764676eca0120b6645d64d3ca0488721"
+          "size": 60867,
+          "sha512": "bba2fa2ec364b1b28ef7e238f307992d96c28de379e306532b13a2218be65ea749d29e489a428eb64df4952cee312806a85eae672b83ed52d9fd9c54ed9387e4",
+          "sha256": "cba8620a9fd1d0a57fd4f89a7a2c1a944b5a5ff2662b02d414c8b006320d209d",
+          "sha1": "6e30da7f8d848e1814614fb1c538fc2625b51ab6",
+          "md5": "aaefdfb145b91f1c861bb1ed4c54ab89"
         }
       ]
     }
