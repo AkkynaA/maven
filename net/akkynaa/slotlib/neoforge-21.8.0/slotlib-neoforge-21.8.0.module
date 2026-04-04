@@ -51,20 +51,6 @@
           "version": {
             "requires": "21.8.49"
           }
-        },
-        {
-          "group": "top.theillusivec4.curios",
-          "module": "curios-neoforge",
-          "version": {
-            "requires": "12.0.0+1.21.8"
-          }
-        },
-        {
-          "group": "maven.modrinth",
-          "module": "yyzs-backpack",
-          "version": {
-            "requires": "TR3Q4AgG"
-          }
         }
       ],
       "files": [
