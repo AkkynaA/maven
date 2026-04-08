@@ -51,13 +51,6 @@
           "version": {
             "requires": "21.11.38-beta"
           }
-        },
-        {
-          "group": "top.theillusivec4.curios",
-          "module": "curios-neoforge",
-          "version": {
-            "requires": "14.0.0+1.21.11"
-          }
         }
       ],
       "files": [
