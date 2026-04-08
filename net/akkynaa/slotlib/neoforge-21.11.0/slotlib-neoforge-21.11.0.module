@@ -71,6 +71,26 @@
           "md5": "f12449b8ffcd109f3bb860f1e99fc773"
         }
       ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "slotlib-neoforge-21.11.0-sources.jar",
+          "url": "slotlib-neoforge-21.11.0-sources.jar",
+          "size": 31783,
+          "sha512": "17504e5e31b25eecfa60d9005718099ca5c029d03d97ee15055e97ce5af40b002f7e77d8a5152f6f58f6c824b50bf84e27847b30b8b6d9d971576e6a02e7268e",
+          "sha256": "375194a2422469364ca65d9cf15d55a826e415be3d7aecd21991cd797070fccb",
+          "sha1": "6901c035a1bcef09392da7ca7c4cea088ca3fcce",
+          "md5": "ac7965d1f23fc540e68e8d1d69e8ff5a"
+        }
+      ]
     }
   ]
 }
